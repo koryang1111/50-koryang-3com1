@@ -56,39 +56,39 @@
 - **ການນຳໃຊ້:** ຈັດການກຳຈັດແຮงໄຟ LED, Sensor ແລະ Module ເພື່ອປ້ອງກັນຄວາມເສຍຫາຍ.
 
 ### 11. Push Buttons (x4)
-- **ຮູບພາບ:** `![Push Buttons](/ArduinoGuide/images/push-button.jpg)`
+- **ຮູບພາບ:** ![Push Buttons](/ArduinoGuide/images/push-button.jpg)
 - **ການນຳໃຊ້:** ຮັບອິນພຸດ ເພື່ອຄວບຄຸມ LED, Motor ຫຼືເປັນ input ສໍາລັບ project ຕ່າງໆ.
 
 ### 12. Potentiometer (5kΩ)
-- **ຮູບພາບ:** `![Potentiometer](/ArduinoGuide/images/potentiometer.jpg)`
+- **ຮູບພາບ:** ![Potentiometer](/ArduinoGuide/images/potentiometer.jpg)
 - **ການນຳໃຊ້:** ປ່ຽນຄ່າຕໍ່ໄຟ ຫຼື PWM, ຄວາມສວ່າງ LED, ຄວາມສຽງ buzzer ຫຼື motor speed.
 
 ### 13. Active Buzzer
-- **ຮູບພາບ:** `![Active Buzzer](/ArduinoGuide/images/active-buzzer.jpg)`
+- **ຮູບພາບ:** ![Active Buzzer](/ArduinoGuide/images/active-buzzer.jpg)
 - **ການນຳໃຊ້:** ສະແດງສຽງໂດຍທັນທີເມື່ອມີໄຟ.
 
 ### 14. Passive Buzzer
-- **ຮູບພາບ:** `![Passive Buzzer](/ArduinoGuide/images/passive-buzzer.jpg)`
+- **ຮູບພາບ:** ![Passive Buzzer](/ArduinoGuide/images/passive-buzzer.jpg)
 - **ການນຳໃຊ້:** ສາມາດສະແດງເສຍງຕ່າງໆ ໂດຍໃຊ້ PWM ເພື່ອຄວບຄຸມ pitch.
 
 ### 15. 16x2 LCD Display
-- **ຮູບພາບ:** `![16x2 LCD](/ArduinoGuide/images/lcd-16x2.jpg)`
+- **ຮູບພາບ:** ![16x2 LCD](/ArduinoGuide/images/lcd-16x2.jpg)
 - **ການນຳໃຊ້:** ສ້າງຂໍ້ຄວາມສະແດງ ທີ່ມີ 2 ແຖວ ທຸກ 16 ຕົວອັກສອນ. ເຊື່ອມຕໍ່ Arduino ຜ່ານ pins ສຳລັບຂໍ້ຄວາມ ແລະ ຄ່າຄວບຄຸມ.
 
 ### 16. I2C Serial Adapter Board Module
-- **ຮູບພາບ:** `![I2C Module](/ArduinoGuide/images/i2c-module.jpg)`
+- **ຮູບພາບ:** ![I2C Module](/ArduinoGuide/images/i2c-module.jpg)
 - **ການນຳໃຊ້:** ເຊື່ອມ 16x2 LCD ຜ່ານ I2C ພື້ນຖານ, ສະດວກ ແລະ ປອດໄພ, ບໍ່ຈຳເປັນຕ້ອງເຊື່ອມຫຼາຍ pins.
 
 ### 17. 7-Segment Display (Common Cathode)
-- **ຮູບພາບ:** `![7-Segment](/ArduinoGuide/images/7-segment.jpg)`
+- **ຮູບພາບ:** ![7-Segment](/ArduinoGuide/images/7-segment.jpg)
 - **ການນຳໃຊ້:** ສ້າງຕົວເລກ ຫຼື ຄ່າຕົວເລກ 0-9. ຄວາມສະເພາະສູງໃນ project ທີ່ຕ້ອງສະແດງເລກ.
 
 ### 18. 4-Digit 7-Segment Display
-- **ຮູບພາບ:** `![4-Digit 7-Segment](/ArduinoGuide/images/4digit-7segment.jpg)`
+- **ຮູບພາບ:** ![4-Digit 7-Segment](/ArduinoGuide/images/4digit-7segment.jpg)
 - **ການນຳໃຊ້:** ສ້າງຄ່າຕົວເລກ 4 ຫຼື ການເລີ່ມຕົວເລກເວລາ, ຄານຕອນ, ຫຼື sensor reading.
 
 ### 19. 8x8 Dot Matrix Display
-- **ຮູບພາບ:** `![8x8 Dot Matrix](/ArduinoGuide/images/dot-matrix.jpg)`
+- **ຮູບພາບ:** ![8x8 Dot Matrix](/ArduinoGuide/images/dot-matrix.jpg)
 - **ການນຳໃຊ້:** ສະແດງຕົວອັກສອນ, ການ animation ຫຼື icon ຕ່າງໆ. ເຊື່ອມຜ່ານ shift register ຫຼື I/O pins.
 
 ---
@@ -96,51 +96,51 @@
 ## 📡 Sensors & Input Modules
 
 ### 20. Temperature and Humidity Sensor (DHT11)
-- **ຮູບພາບ:** `![DHT11](/ArduinoGuide/images/dht11.jpg)`
+- **ຮູບພາບ:** ![DHT11](/ArduinoGuide/images/dht11.jpg)
 - **ການນຳໃຊ້:** ອ່ານອຸນຫະພູມ ແລະ ຄວາມຊື່ນ ສໍາລັບ project weather station ຫຼື environment monitoring.
 
 ### 21. LM35 Temperature Sensor
-- **ຮູບພາບ:** `![LM35](/ArduinoGuide/images/lm35.jpg)`
+- **ຮູບພາບ:** ![LM35](/ArduinoGuide/images/lm35.jpg)
 - **ການນຳໃຊ້:** ອ່ານອຸນຫະພູມແບບ analog ສຳລັບ Arduino ເພື່ອຄວບຄຸມອຸນຫະພູມຫຼື fan.
 
 ### 22. Tilt Sensor
-- **ຮູບພາບ:** `![Tilt Sensor](/ArduinoGuide/images/tilt-sensor.jpg)`
+- **ຮູບພາບ:** ![Tilt Sensor](/ArduinoGuide/images/tilt-sensor.jpg)
 - **ການນຳໃຊ້:** ຮັບອິນພຸດການເຄື່ອນໄຫວ ເຊັ່ນ alarm ຫຼື robot orientation.
 
 ### 23. Photoresistor (LDR)
-- **ຮູບພາບ:** `![LDR](/ArduinoGuide/images/ldr.jpg)`
+- **ຮູບພາບ:** ![LDR](/ArduinoGuide/images/ldr.jpg)
 - **ການນຳໃຊ້:** ຕິດຕາມແສງ, ຄວບຄຸມ LED ຫຼື brightness ອື່ນໆ.
 
 ### 24. PIR Sensor
-- **ຮູບພາບ:** `![PIR Sensor](/ArduinoGuide/images/pir.jpg)`
+- **ຮູບພາບ:** ![PIR Sensor](/ArduinoGuide/images/pir.jpg)
 - **ການນຳໃຊ້:** ຮັບອິນພຸດການເຄື່ອນໄຫວຂອງຄົນ ເພື່ອເປີດແລະແສງສະເພາະຫຼື alarm.
 
 ### 25. Ultrasonic Module
-- **ຮູບພາບ:** `![Ultrasonic](/ArduinoGuide/images/ultrasonic.jpg)`
+- **ຮູບພາບ:** ![Ultrasonic](/ArduinoGuide/images/ultrasonic.jpg)
 - **ການນຳໃຊ້:** ວັດລະຫວ່າງວັງຈອນ ຫຼືຄວາມຫຼາຍຈາກສິ່ງ, ສໍາລັບ robot ຫຼື obstacle avoidance.
 
 ### 26. Sound Sensor
-- **ຮູບພາບ:** `![Sound Sensor](/ArduinoGuide/images/sound-sensor.jpg)`
+- **ຮູບພາບ:** ![Sound Sensor](/ArduinoGuide/images/sound-sensor.jpg)
 - **ການນຳໃຊ້:** ສະແດງສຽງ ຫຼື trigger project ຜ່ານเสียง clap ຫຼື sound level.
 
 ### 27. Water Sensor
-- **ຮູບພາບ:** `![Water Sensor](/ArduinoGuide/images/water-sensor.jpg)`
+- **ຮູບພາບ:** ![Water Sensor](/ArduinoGuide/images/water-sensor.jpg)
 - **ການນຳໃຊ້:** ກວດນ້ຳ ເຊັ່ນ flood alarm ຫຼື irrigation system.
 
 ### 28. Flame Sensor
-- **ຮູບພາບ:** `![Flame Sensor](/ArduinoGuide/images/flame-sensor.jpg)`
+- **ຮູບພາບ:** ![Flame Sensor](/ArduinoGuide/images/flame-sensor.jpg)
 - **ການນຳໃຊ້:** ຮັບອິນພຸດເສຽງເຄື່ອນໄຟໄໝ ຫຼື fire detection.
 
 ### 29. RFID Module
-- **ຮູບພາບ:** `![RFID Module](/ArduinoGuide/images/rfid-module.jpg)`
+- **ຮູບພາບ:** ![RFID Module](/ArduinoGuide/images/rfid-module.jpg)
 - **ການນຳໃຊ້:** ອ່ານການຈິດຕັ້ງບັດ RFID ເພື່ອການຄວບຄຸມ access control.
 
 ### 30. RFID Tag
-- **ຮູບພາບ:** `![RFID Tag](/ArduinoGuide/images/rfid-tag.jpg)`
+- **ຮູບພາບ:** ![RFID Tag](/ArduinoGuide/images/rfid-tag.jpg)
 - **ການນຳໃຊ້:** ເຊື່ອມກັບ RFID module ເພື່ອການຈິດຕັ້ງເຂົ້າ-ອອກ.
 
 ### 31. Infrared Receiver
-- **ຮູບພາບ:** `![IR Receiver](/ArduinoGuide/images/ir-receiver.jpg)`
+- **ຮູບພາບ:** ![IR Receiver](/ArduinoGuide/images/ir-receiver.jpg)
 - **ການນຳໃຊ້:** ຮັບສັນຍານ remote control ພາຍນອກ ເພື່ອ control project ຕ່າງໆ.
 
 ---
@@ -148,19 +148,19 @@
 ## 🎮 Remote & Control
 
 ### 32. Infrared Remote Control
-- **ຮູບພາບ:** `![IR Remote](/ArduinoGuide/images/ir-remote.jpg)`
+- **ຮູບພາບ:** ![IR Remote](/ArduinoGuide/images/ir-remote.jpg)
 - **ການນຳໃຊ້:** ເປັນອຸປະກອນຄວບຄຸມ project ຜ່ານ IR receiver.
 
 ### 33. Joystick Module
-- **ຮູບພາບ:** `![Joystick Module](/ArduinoGuide/images/joystick.jpg)`
+- **ຮູບພາບ:** ![Joystick Module](/ArduinoGuide/images/joystick.jpg)
 - **ການນຳໃຊ້:** ຄວບຄຸມ movement ຫຼື cursor ສຳລັບ robot ຫຼື game control.
 
 ### 34. 4x4 Matrix Keyboard Module
-- **ຮູບພາບ:** `![4x4 Keypad](/ArduinoGuide/images/4x4-keypad.jpg)`
+- **ຮູບພາບ:** ![4x4 Keypad](/ArduinoGuide/images/4x4-keypad.jpg)
 - **ການນຳໃຊ້:** ຮັບ input ເພື່ອ password, menu navigation ຫຼື project ຕ່າງໆ.
 
 ### 35. Relay Module
-- **ຮູບພາບ:** `![Relay Module](/ArduinoGuide/images/relay-module.jpg)`
+- **ຮູບພາບ:** ![Relay Module](/ArduinoGuide/images/relay-module.jpg)
 - **ການນຳໃຊ້:** ຄວບຄຸມອຸປະກອນໄຟເລັກທີ່ມີກຳລັງສູງ ຜ່ານ Arduino, ເຊັ່ນ lamp, fan.
 
 ---
@@ -168,15 +168,15 @@
 ## ⚙️ Motors & Drivers
 
 ### 36. Servo Motor
-- **ຮູບພາບ:** `![Servo Motor](/ArduinoGuide/images/servo.jpg)`
+- **ຮູບພາບ:** ![Servo Motor](/ArduinoGuide/images/servo.jpg)
 - **ການນຳໃຊ້:** ຄວບຄຸມການໄຫວແບບ precise rotation 0-180°. ເພື່ອ robot, arm control.
 
 ### 37. Stepper Motor
-- **ຮູບພາບ:** `![Stepper Motor](/ArduinoGuide/images/stepper.jpg)`
+- **ຮູບພາບ:** ![Stepper Motor](/ArduinoGuide/images/stepper.jpg)
 - **ການນຳໃຊ້:** ຄວບຄຸມການໄຫວມີຄວາມແນ່ນອນ ເຊັ່ນ CNC, 3D printer.
 
 ### 38. Stepper Motor Driver Board
-- **ຮູບພາບ:** `![Stepper Driver](/ArduinoGuide/images/stepper-driver.jpg)`
+- **ຮູບພາບ:** ![Stepper Driver](/ArduinoGuide/images/stepper-driver.jpg)
 - **ການນຳໃຊ້:** ຄວບຄຸມການໄຫວຂອງ stepper motor ດ້ວຍ Arduino.
 
 ---
@@ -184,11 +184,11 @@
 ## 🧠 ICs & Modules
 
 ### 39. Real-time Clock Module DS1302
-- **ຮູບພາບ:** `![DS1302](/ArduinoGuide/images/ds1302.jpg)`
+- **ຮູບພາບ:** ![DS1302](/ArduinoGuide/images/ds1302.jpg)
 - **ການນຳໃຊ້:** ຈັດການເວລາຕາມຈິງ, ບັນທຶກເວລາ ແລະ date, ເພື່ອ alarm ຫຼື data logging.
 
 ### 40. 74HC595 Chip
-- **ຮູບພາບ:** `![74HC595](/ArduinoGuide/images/74hc595.jpg)`
+- **ຮູບພາບ:** ![74HC595](/ArduinoGuide/images/74hc595.jpg)
 - **ການນຳໃຊ້:** shift register ເພື່ອຂະຫນາດ output ຫຼາຍຂອງ Arduino. ສໍາລັບ LED matrix, 7-segment display.
 
 ---
